@@ -1,0 +1,26 @@
+/* main has to have postion absolute in order to be visible with canvas */
+main{
+    position: absolute;
+}
+
+header{
+    color:whitesmoke;
+}
+
+canvas{
+    position: fixed;
+    top: 0;
+    left: 0;
+}
+
+.par{
+    margin-top:40vh;
+    color: aliceblue;
+    width: 30vw;
+    font-size: 30px;
+}
+
+#right{
+    text-align: right;
+    margin-left: 67vw;
+}
